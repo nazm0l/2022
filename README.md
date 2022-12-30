@@ -12,3 +12,7 @@ Such as:
 Also, I learned more micro technology related to MERN.
 
 I have 400 GitHub commits in 2022.
+
+Inshaallah next year I will learn advanced topics about MERN and DSA. And I want to make 400 commits to 3000 commits next year.
+
+Advance Happy New Year Guys.

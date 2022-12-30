@@ -10,3 +10,5 @@ Such as:
 4. C
 
 Also, I learned more micro technology related to MERN.
+
+I have 400 GitHub commits in 2022.
